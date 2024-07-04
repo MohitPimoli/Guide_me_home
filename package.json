@@ -1,7 +1,7 @@
 {
-  "homepage": "https://hardikpant03/github.io/Guide_me_home",
   "name": "waybuddy",
   "version": "0.1.0",
+  "homepage": "https://MohitPimoli/github.io/Guide_me_home",
   "private": true,
   "dependencies": {
     "@fortawesome/fontawesome-svg-core": "^6.5.2",
